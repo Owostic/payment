@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://zxhsxd.com/docs"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://12396pe.com/MTvQsyhU"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
